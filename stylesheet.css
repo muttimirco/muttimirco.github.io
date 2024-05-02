@@ -74,7 +74,7 @@ a {
 
 a:focus,
 a:hover {
-  color: #76ABAE;
+  color: #910A67;
   text-decoration: none;
 }
 
@@ -132,6 +132,6 @@ name {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
-/* span.highlight {
-  background-color: #31363F;
-} */
+span.highlight {
+  background-color: #222831;
+}
