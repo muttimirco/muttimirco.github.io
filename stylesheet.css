@@ -64,17 +64,20 @@
 }
 
 a {
-  color: #76ABAE;
+  color: #EEEEEE;
   text-decoration: none;
 }
 
 a:focus,
 a:hover {
-  color: #EEEEEE;
+  color: #76ABAE;
   text-decoration: none;
 }
 
-body,
+body {
+  background-color: #31363F;
+}
+
 td,
 th,
 tr,
