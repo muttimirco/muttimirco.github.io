@@ -64,7 +64,7 @@
 }
 
 body {
-  background-color: #f4f6f1;
+  background-color: #222831;
 }
 
 a {
@@ -79,7 +79,7 @@ a:hover {
 }
 
 td {
-  color: #003153;
+  color: #f4f6f1;
 }
 
 th,
@@ -133,7 +133,7 @@ name {
 }
 
 span.highlight {
-  background-color: #f4f6f1;
+  background-color: #222831;
 }
 
 /* colors
